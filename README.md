@@ -8,7 +8,8 @@
 
 <h2> ✔️ Resumo do projeto </h2>
 <p><b>GitHub Pages:</b> https://willy4nn.github.io/Slide-Animais-Origamid/ </p>
-<p> Um slide feito com HTML, CSS e JavaScript. </p>
+<p> Um slide de animais, com funcionalidades e transições. </p>
+<p> Esse projeto foi feito durante o curso de JavaScript Completo ES6 da Origamid, feito com HTML, CSS e JavaScript. </p>
 <p> Feito para ser aplicado no projeto <a href="https://github.com/willy4nn/Animais-Fantasticos-Origamid">Animais Fantásticos</a>. </p>
 
 <h2> ✔️ Tecnologias utilizadas </h2>
